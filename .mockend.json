@@ -31,5 +31,14 @@
         "max": "2020-12-31T23:59:59Z"
       }
     }
-  }
+  }{
+  "data": null,
+  "errors": [
+    {
+      "message": "Must provide an operation.",
+      "locations": []
+    }
+  ]
+}
+  
 }
